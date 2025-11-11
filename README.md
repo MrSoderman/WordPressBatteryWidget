@@ -34,7 +34,7 @@ It updates live using the browser’s `navigator.getBattery()` API.
 ---
 
 ## 🧑‍💻 Author
-**Jimmy Söderman Sers**  
+**Mr Soderman**  
 Version: **1.1**  
 License: **GPLv2 or later**
 
